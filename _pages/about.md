@@ -57,8 +57,9 @@ My work combined both experimental manufacturing and theoretical computation, I 
 
 
 # Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* China National Scholarship (Top 0.2%), "Outstanding Student" title.
+- *2021.05* "Student Leader" title.
+- *2019.10* Visiting Research Student Funded by China Scholarship Council (CSC). 
 
 # Educations
 - *2020.08 - 2025.06*, Ph.D.  Mechanical Engineering & Materials Science, Wuhan University, China. 
