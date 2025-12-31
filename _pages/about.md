@@ -30,7 +30,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/PCCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modelling of Water Evaporation in Hydrogels Considering the State of Water in Tension](https://pubs.rsc.org/en/content/articlehtml/2025/cp/d5cp02160j)
