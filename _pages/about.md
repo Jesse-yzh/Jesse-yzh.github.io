@@ -19,7 +19,7 @@ redirect_from:
 
 I graduated from Wuhan University.
 
-My research interest includes soft matter, active materials, computational molecular physics, and water-energy nexus. I have published 18 papers at the top materials or energy journals with total <a href='https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes soft matter, active materials, computational molecular physics, and water-energy nexus. I have published 18 papers at the top materials or energy journals with total <a href='https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
