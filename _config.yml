@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zehua Jesse Yu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Shaping water's will into art"
 repository               : "Jesse-yzh/Jesse-yzh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,17 +21,17 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zehua Jesse Yu"
+  name             : "Zehua Yu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : #"WHU"
   location         : "China"
   employer         :
   pubmed           : 
   email            : "jesseyzh@whu.edu.com"
-  LinkedIn         : "https://www.linkedin.com/in/zehua-yu-471852377/"
+  linkedin         : "https://www.linkedin.com/in/zehua-yu-471852377/"
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   researchgate     : "https://www.researchgate.net/profile/Zehua-Yu-6/research"
-  ORCID            : "https://orcid.org/my-orcid?orcid=0000-0002-6450-5927"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6450-5927"
   uri              :
   bitbucket        :
   codepen          :
