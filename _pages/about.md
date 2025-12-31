@@ -26,7 +26,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 
 # News
 - *2026.01*: &nbsp; Seeking Postdoc / Research Assistant Position. 
-- *2025.06*: &nbsp; PhD Graduate in Mechanical Engineering | Wuhan University. 
+- *2025.06*: &nbsp; PhD Graduate in Mechanical Engineering, Wuhan University. 
 
 # Publications 
 
@@ -35,14 +35,12 @@ My work combined both experimental manufacturing and theoretical computation, I 
 
 [Modelling of Water Evaporation in Hydrogels Considering the State of Water in Tension](https://pubs.rsc.org/en/content/articlehtml/2025/cp/d5cp02160j)
 
-**Zehua Yu**, Yongshun Ren, Kang Liu
+**Zehua Yu**, Yongshun Ren, Kang Liu*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**]
+- This work proposed a simplfied model to describe the vapour pressure and dynamic evaporation process of water in hydrogels by considering the state of water in tension. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
