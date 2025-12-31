@@ -48,8 +48,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 
 [**Project**]
 - This work proposed a hydrogel-microchannel device to enable efficient evaporative cooling. 
-</div>
-</div>
+
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
