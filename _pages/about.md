@@ -42,6 +42,15 @@ My work combined both experimental manufacturing and theoretical computation, I 
 </div>
 </div>
 
+[Spatial Moisture Architecture Enabled Sustainable Evaporative Cooling for Dual-glass Photovoltaic](https://www.sciencedirect.com/science/article/abs/pii/S2211285525006639)
+
+**Zehua Yu**, Yongshun Ren, Kang Liu*
+
+[**Project**]
+- This work proposed a hydrogel-microchannel device to enable efficient evaporative cooling. 
+</div>
+</div>
+
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -56,5 +65,6 @@ My work combined both experimental manufacturing and theoretical computation, I 
 MCAA AsiaConnect: Innovation and Multidisciplinary Collaboration, As a speaker talked about the "structure, function and application of hydrogels across energy and thermal systems". 
 - *2023.06*, The 33rd CCS Congress, I gave a poster presentation focused on "Isotonic separation enabled efficient low-grade heat conversion with thermal-responsive ionic liquids".
 
-# Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
+
