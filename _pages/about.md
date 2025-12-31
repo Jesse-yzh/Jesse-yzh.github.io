@@ -47,12 +47,14 @@ My research interest includes soft matter, active materials, computational molec
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.08 - 2025.06*, Ph.D. Mechanical Engineering & Materials Science, Wuhan University, China. 
+- *2020.02 - 2020.06*, R.A., Computational Fluid Dynamics, University of Regina, Canada.
+- *2016.09 - 2020.06*, BEng, Mechanical Engineering, First Class (GPA: 3.66/4.0), China University of Petroleum, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conference
+- *2025.11*, 
+MCAA AsiaConnect: Innovation and Multidisciplinary Collaboration, As a speaker talked about the "structure, function and application of hydrogels across energy and thermal systems". 
+- *2023.06*, The 33rd CCS Congress, I gave a poster presentation focused on "Isotonic separation enabled efficient low-grade heat conversion with thermal-responsive ionic liquids".
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
