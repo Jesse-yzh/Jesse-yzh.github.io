@@ -22,11 +22,11 @@ I graduated from Wuhan University.
 My research interest includes soft matter, active materials, computational molecular physics, and water-energy nexus. I have published 18 papers at the top materials or energy journals with total <a href='https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a> 
 
 
-# 🔥 News
+# News
 - *2025.06*: &nbsp;🎉🎉 Graduate from Wuhan University, get a PhD degree in Mechanical Engineering. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,19 +42,19 @@ My research interest includes soft matter, active materials, computational molec
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# Educations
 - *2020.08 - 2025.06*, Ph.D. Mechanical Engineering & Materials Science, Wuhan University, China. 
 - *2020.02 - 2020.06*, R.A., Computational Fluid Dynamics, University of Regina, Canada.
 - *2016.09 - 2020.06*, BEng, Mechanical Engineering, First Class (GPA: 3.66/4.0), China University of Petroleum, China.
 
-# 💬 Conference
+# Conference
 - *2025.11*, 
 MCAA AsiaConnect: Innovation and Multidisciplinary Collaboration, As a speaker talked about the "structure, function and application of hydrogels across energy and thermal systems". 
 - *2023.06*, The 33rd CCS Congress, I gave a poster presentation focused on "Isotonic separation enabled efficient low-grade heat conversion with thermal-responsive ionic liquids".
 
-# 💻 Internships
+# Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
