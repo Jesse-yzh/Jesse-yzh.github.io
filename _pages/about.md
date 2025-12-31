@@ -24,8 +24,8 @@ My research interest includes soft matter, active materials, computational molec
 
 
 # News
-- *2025.06*: &nbsp;🎉🎉 Graduate from Wuhan University, get a PhD degree in Mechanical Engineering. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp; Graduate from Wuhan University, get a PhD degree in Mechanical Engineering. 
+- *2022.02*: &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Publications 
 
@@ -48,9 +48,9 @@ My research interest includes soft matter, active materials, computational molec
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Educations
-- *2020.08 - 2025.06*, Ph.D. Mechanical Engineering & Materials Science, Wuhan University, China. 
-- *2020.02 - 2020.06*, R.A., Computational Fluid Dynamics, University of Regina, Canada.
-- *2016.09 - 2020.06*, BEng, Mechanical Engineering, First Class (GPA: 3.66/4.0), China University of Petroleum, China.
+- *2020.08 - 2025.06*, Ph.D.  Mechanical Engineering & Materials Science, Wuhan University, China. 
+- *2020.02 - 2020.06*, R.A.   Mechanical Engineering, University of Regina, Canada.
+- *2016.09 - 2020.06*, B.Eng. Mechanical Engineering, China University of Petroleum, China.
 
 # Conference
 - *2025.11*, 
