@@ -18,10 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About
 
-I graduated from Wuhan University.
+I currently hold a Ph.D. degree in Mechanical Engineering & Materials Science from Wuhan University. My studies focus on: 1) multiscale modelling and computation of soft materials, 2) structure-function relationship of hydrogels, and 3) applications of hydrogels in water-energy nexus and microfluidics.
 
-My research interest includes soft matter, active materials, computational molecular physics, and water-energy nexus. I have published 18 papers at the top materials or energy journals with total <a href='https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a> 
+So far, I have published 19 papers, of which 8 are first/co-first-author publications in top-tier journals such as Adv. Mater., Nano lett., Nano Energy etc., with total <a href='https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>. 
 
+My work combined both experimental manufacturing and theoretical computation, I have gained extensive experience in fabrication of hydrogel-based devices and developed a solid foundation in polymer science and computational chemistry. In particular, I am proficient in conducting molecular dynamics (MD) simulations (LAMMPS, Python) and density functional theory (DFT) calculations (VASP, Gaussian) for polymer solution systems.
 
 # News
 - *2025.06*: &nbsp; Graduate from Wuhan University, get a PhD degree in Mechanical Engineering. 
