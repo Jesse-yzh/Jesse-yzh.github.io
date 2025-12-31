@@ -42,12 +42,18 @@ My work combined both experimental manufacturing and theoretical computation, I 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Energy 2025</div><img src='images/NanoEnergy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [Spatial Moisture Architecture Enabled Sustainable Evaporative Cooling for Dual-glass Photovoltaic](https://www.sciencedirect.com/science/article/abs/pii/S2211285525006639)
 
 **Zehua Yu**, Yongshun Ren, Kang Liu*
 
-[**Project**]
-- This work proposed a hydrogel-microchannel device to enable efficient evaporative cooling. 
+[**Device design**]
+- This work proposed a hydrogel-microchannel device to enable efficient evaporative cooling.
+
+</div>
+</div>
 
 
 # Honors and Awards
