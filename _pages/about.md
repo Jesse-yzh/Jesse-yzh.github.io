@@ -24,12 +24,10 @@ So far, I have published 19 papers, of which 8 are first/co-first-author publica
 
 My work combined both experimental manufacturing and theoretical computation, I have gained extensive experience in fabrication of hydrogel-based devices and developed a solid foundation in polymer science and computational chemistry. In particular, I am proficient in conducting molecular dynamics (MD) simulations (LAMMPS, Python) and density functional theory (DFT) calculations (VASP, Gaussian) for polymer solution systems.
 
-<span class='anchor' id='-news''</span>
-# News
+# News {: #-news }
 - *2026.01*: &nbsp; Seeking Postdoc / Research Assistant Position. 
 - *2025.06*: &nbsp; PhD Graduate in Mechanical Engineering, Wuhan University. 
 
-<span class='anchor' id='-publications''</span>
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCCP 2025</div><img src='images/PCCP.png' alt="sym" width="100%"></div></div>
