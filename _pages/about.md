@@ -16,8 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<span class='anchor' id='-honors-and-awards''</span>
-<span class='anchor' id='education''</span>
 # About
 
 I currently hold a Ph.D. degree in Mechanical Engineering & Materials Science from Wuhan University. My studies focus on: 1) multiscale modelling and computation of soft materials, 2) structure-function relationship of hydrogels, and 3) applications of hydrogels in water-energy nexus and microfluidics.
