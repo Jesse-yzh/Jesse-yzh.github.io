@@ -57,6 +57,19 @@ My work combined both experimental manufacturing and theoretical computation, I 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Energy 2025</div><img src='images/NanoEnergy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Negative Pressure in Water for Efficient Heat Utilization and Transfer](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.3c01855)
+
+Yuxi Liu†, **Zehua Yu<sup>†</sup>**, Peihua Yang*, Kang Liu*
+
+[**Device design**]
+- This work proposed a hydrogel-microchannel device to enable efficient evaporative cooling.
+
+</div>
+</div>
+
 # Honors and Awards
 - *2024.11* China National Scholarship (Top 0.2%), "Outstanding Student" title.
 - *2021.05* "Student Leader" title.
