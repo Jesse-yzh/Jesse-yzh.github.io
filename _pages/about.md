@@ -16,6 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+<span class='anchor' id='-honors-and-awards''</span>
+<span class='anchor' id='education''</span>
 # About
 
 I currently hold a Ph.D. degree in Mechanical Engineering & Materials Science from Wuhan University. My studies focus on: 1) multiscale modelling and computation of soft materials, 2) structure-function relationship of hydrogels, and 3) applications of hydrogels in water-energy nexus and microfluidics.
@@ -24,7 +26,7 @@ So far, I have published 19 papers, of which 8 are first/co-first-author publica
 
 My work combined both experimental manufacturing and theoretical computation, I have gained extensive experience in fabrication of hydrogel-based devices and developed a solid foundation in polymer science and computational chemistry. In particular, I am proficient in conducting molecular dynamics (MD) simulations (LAMMPS, Python) and density functional theory (DFT) calculations (VASP, Gaussian) for polymer solution systems.
 
-# News {: #-news }
+# News
 - *2026.01*: &nbsp; Seeking Postdoc / Research Assistant Position. 
 - *2025.06*: &nbsp; PhD Graduate in Mechanical Engineering, Wuhan University. 
 
@@ -55,13 +57,11 @@ My work combined both experimental manufacturing and theoretical computation, I 
 </div>
 </div>
 
-<span class='anchor' id='-honors-and-awards''</span>
 # Honors and Awards
 - *2024.11* China National Scholarship (Top 0.2%), "Outstanding Student" title.
 - *2021.05* "Student Leader" title.
 - *2019.10* Visiting Research Student Funded by China Scholarship Council (CSC). 
 
-<span class='anchor' id='education''</span>
 # Educations
 - *2020.08 - 2025.06*, Ph.D.  Mechanical Engineering & Materials Science, Wuhan University, China. 
 - *2020.02 - 2020.06*, R.A.   Mechanical Engineering, University of Regina, Canada.
