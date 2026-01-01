@@ -24,10 +24,12 @@ So far, I have published 19 papers, of which 8 are first/co-first-author publica
 
 My work combined both experimental manufacturing and theoretical computation, I have gained extensive experience in fabrication of hydrogel-based devices and developed a solid foundation in polymer science and computational chemistry. In particular, I am proficient in conducting molecular dynamics (MD) simulations (LAMMPS, Python) and density functional theory (DFT) calculations (VASP, Gaussian) for polymer solution systems.
 
+<span class='anchor' id='news''</span>
 # News
 - *2026.01*: &nbsp; Seeking Postdoc / Research Assistant Position. 
 - *2025.06*: &nbsp; PhD Graduate in Mechanical Engineering, Wuhan University. 
 
+<span class='anchor' id='publications''</span>
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCCP 2025</div><img src='images/PCCP.png' alt="sym" width="100%"></div></div>
@@ -55,12 +57,13 @@ My work combined both experimental manufacturing and theoretical computation, I 
 </div>
 </div>
 
-
+<span class='anchor' id='honors and awards''</span>
 # Honors and Awards
 - *2024.11* China National Scholarship (Top 0.2%), "Outstanding Student" title.
 - *2021.05* "Student Leader" title.
 - *2019.10* Visiting Research Student Funded by China Scholarship Council (CSC). 
 
+<span class='anchor' id='personal''</span>
 # Educations
 - *2020.08 - 2025.06*, Ph.D.  Mechanical Engineering & Materials Science, Wuhan University, China. 
 - *2020.02 - 2020.06*, R.A.   Mechanical Engineering, University of Regina, Canada.
