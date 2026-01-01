@@ -63,7 +63,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 Yuxi Liu†, **Zehua Yu<sup>†</sup>**, Peihua Yang*, Kang Liu*
 
 [**Device design**]
-- This work proposed a hydrogel-microchannel device to enable efficient evaporative cooling.
+- This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
 
 </div>
 </div>
