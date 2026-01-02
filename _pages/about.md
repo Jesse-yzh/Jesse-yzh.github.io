@@ -41,13 +41,14 @@ My work combined both experimental manufacturing and theoretical computation, I 
 </div>
 </div>
 
-[17. Cationic–Zwitterionic Polymer Electrolytes with Enhanced Ionic Conductivity and Lithium‐Ion Selectivity for Solid‐State Batteries](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Tuo Xiao, Jinlin Xian, **Zehua Yu**,... Kang Liu&#42;, Peihua Yang&#42;, 2025, Angewandte Chemie 137, e202514027.
+[17. Cationic–Zwitterionic Polymer Electrolytes with Enhanced Ionic Conductivity and Lithium‐Ion Selectivity for Solid‐State Batteries](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Tuo Xiao, Jinlin Xian, **Zehua Yu**,... Kang Liu&#42;, Peihua Yang&#42;, 2025, Angew. Chem. 137, e202514027.
 
+[16. All‐Polymer Polyethylene‐Hydrogel Felt for Efficient Evaporative Cooling and Ecological Restoration in Photovoltaic Power Plants](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Kaibin Zheng, Xifan Fu, Yongshun Ren, **Zehua Yu**,... Chaoji Chen&#42;, Kang Liu&#42; 2025, Adv. Mater. 37, 2501698.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Energy 2025</div><img src='images/NanoEnergy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Spatial Moisture Architecture Enabled Sustainable Evaporative Cooling for Dual-glass Photovoltaic](https://www.sciencedirect.com/science/article/abs/pii/S2211285525006639)
+[15. Spatial Moisture Architecture Enabled Sustainable Evaporative Cooling for Dual-glass Photovoltaic](https://www.sciencedirect.com/science/article/abs/pii/S2211285525006639)
 
 **Zehua Yu**, Yongshun Ren, Kang Liu*
 
@@ -56,6 +57,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Lett. 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
