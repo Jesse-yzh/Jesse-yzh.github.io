@@ -60,7 +60,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
   
 [Negative Pressure in Water for Efficient Heat Utilization and Transfer](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.3c01855)
 
-Yuxi Liu†, **Zehua Yu<sup>†</sup>**, Peihua Yang*, Kang Liu*
+Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang<sup>*</sup>, Kang Liu<sup>*</sup>
 
 [**Device design**]
 - This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
@@ -70,7 +70,6 @@ Yuxi Liu†, **Zehua Yu<sup>†</sup>**, Peihua Yang*, Kang Liu*
 
 # Honors and Awards
 - *2024.11* China National Scholarship (Top 0.2%), "Outstanding Student" title.
-- *2021.05* "Student Leader" title.
 - *2019.10* Visiting Research Student Funded by China Scholarship Council (CSC). 
 
 # Educations
@@ -80,8 +79,8 @@ Yuxi Liu†, **Zehua Yu<sup>†</sup>**, Peihua Yang*, Kang Liu*
 
 # Conference
 - *2025.11*, 
-MCAA AsiaConnect: Innovation and Multidisciplinary Collaboration, As a speaker talked about the "structure, function and application of hydrogels across energy and thermal systems". 
-- *2023.06*, The 33rd CCS Congress, I gave a poster presentation focused on "Isotonic separation enabled efficient low-grade heat conversion with thermal-responsive ionic liquids".
+**MCAA AsiaConnect: Innovation and Multidisciplinary Collaboration**, oral presentation, "structure, function and application of hydrogels across energy and thermal systems". 
+- *2023.06*, **The 33rd CCS Congress**, poster, "Isotonic separation enabled efficient low-grade heat conversion with thermal-responsive ionic liquids".
 
 
 
