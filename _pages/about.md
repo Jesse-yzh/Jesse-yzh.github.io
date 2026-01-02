@@ -29,7 +29,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 - *2025.06*: &nbsp; PhD Graduate in Mechanical Engineering, Wuhan University. 
 
 # Publications 
-
+- **Water-energy nexus**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCCP 2025</div><img src='images/PCCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
