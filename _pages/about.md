@@ -29,11 +29,10 @@ My work combined both experimental manufacturing and theoretical computation, I 
 - *2025.06*: &nbsp; PhD Graduate in Mechanical Engineering, Wuhan University. 
 
 # Publications 
-- **Water-energy nexus**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCCP 2025</div><img src='images/PCCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Modelling of Water Evaporation in Hydrogels Considering the State of Water in Tension](https://pubs.rsc.org/en/content/articlehtml/2025/cp/d5cp02160j)
+[18. Modelling of Water Evaporation in Hydrogels Considering the State of Water in Tension](https://pubs.rsc.org/en/content/articlehtml/2025/cp/d5cp02160j)
 
 **Zehua Yu**, Yongshun Ren, Kang Liu*
 
@@ -41,6 +40,9 @@ My work combined both experimental manufacturing and theoretical computation, I 
 - This work proposed a simplfied model to describe the vapour pressure and dynamic evaporation process of water in hydrogels by considering the state of water in tension. 
 </div>
 </div>
+
+[17. Cationic–Zwitterionic Polymer Electrolytes with Enhanced Ionic Conductivity and Lithium‐Ion Selectivity for Solid‐State Batteries](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Tuo Xiao, Jinlin Xian, **Zehua Yu**,... Kang Liu&#42;, Peihua Yang&#42;, 2025, Angewandte Chemie 137, e202514027.
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Energy 2025</div><img src='images/NanoEnergy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
