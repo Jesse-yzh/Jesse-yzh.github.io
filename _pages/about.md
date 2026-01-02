@@ -111,7 +111,7 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 
 [4] Graphene materials & devices
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nanoscale 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2025</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [1. Fast Water Transport and Ionic Sieving in Ultrathin Stacked Nanoporous 2D Membranes](https://academic.oup.com/nsr/article/12/3/nwae482/7943705) Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Quan Yuan&#42;, Yanbing Yang&#42;
