@@ -74,7 +74,7 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 
 # Honors and Awards
 - *2024.11* China National Scholarship (Top 0.2%), "Outstanding Student" title.
-- *2019.10* Visiting Research Student Funded by China Scholarship Council (CSC). 
+- *2019.10* Visiting Research Fellowship, Funded by China Scholarship Council (CSC). 
 
 # Educations
 - *2020.08 - 2025.06*, Ph.D.  Mechanical Engineering & Materials Science, Wuhan University, China. 
