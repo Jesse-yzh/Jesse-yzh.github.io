@@ -60,7 +60,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
   
 [Negative Pressure in Water for Efficient Heat Utilization and Transfer](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.3c01855)
 
-Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&ast;, Kang Liu&ast;
+Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#42;
 
 [**Device design**]
 - This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
