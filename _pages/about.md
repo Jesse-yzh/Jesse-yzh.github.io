@@ -29,11 +29,11 @@ My work combined both experimental manufacturing and theoretical computation, I 
 - *2025.06*: &nbsp; PhD Graduate in Mechanical Engineering, Wuhan University. 
 
 # Publications 
-[1] Efficienct heat transfer & utilization
+**[1] Efficienct heat transfer & utilization**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCCP 2025</div><img src='images/PCCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[18. Modelling of Water Evaporation in Hydrogels Considering the State of Water in Tension](https://pubs.rsc.org/en/content/articlehtml/2025/cp/d5cp02160j)
+[1. Modelling of Water Evaporation in Hydrogels Considering the State of Water in Tension](https://pubs.rsc.org/en/content/articlehtml/2025/cp/d5cp02160j)
 
 **Zehua Yu**, Yongshun Ren, Kang Liu*
 
@@ -42,9 +42,6 @@ My work combined both experimental manufacturing and theoretical computation, I 
 </div>
 </div>
 
-
-
-[16. All‐Polymer Polyethylene‐Hydrogel Felt for Efficient Evaporative Cooling and Ecological Restoration in Photovoltaic Power Plants](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Kaibin Zheng, Xifan Fu, Yongshun Ren, **Zehua Yu**,... Chaoji Chen&#42;, Kang Liu&#42; 2025, Adv. Mater. 37, 2501698.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Energy 2025</div><img src='images/NanoEnergy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,12 +70,16 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 </div>
 </div>
 
-[2] Hydrogel electrolytes
+[1. All‐Polymer Polyethylene‐Hydrogel Felt for Efficient Evaporative Cooling and Ecological Restoration in Photovoltaic Power Plants](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Kaibin Zheng, Xifan Fu, Yongshun Ren, **Zehua Yu**,... Chaoji Chen&#42;, Kang Liu&#42; 2025, Adv. Mater. 37, 2501698.
+
+
+**[2] Hydrogel electrolytes**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Adv. Mater. 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[5. Hetero-Polyionic Hydrogels Enable Dendrites-Free Aqueous Zn-I2 Batteries with Fast Kinetics](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202306531) Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Peihua Yang&#42;, Hongjin Fan&#42;
+[5. Hetero-polyionic Hydrogels Enable Dendrites-free Aqueous Zn-I<sub>2<sub> Batteries with Fast Kinetics](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202306531) 
+Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Peihua Yang&#42;, Hongjin Fan&#42;
 
 [**Electrolyte design**]
 - This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
