@@ -96,11 +96,10 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 
 
 [3] Microfluidics
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nanoscale 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[2. Non-invasive Monitoring of Biochemicals in Hydrogel-assisted Microfluidic Chips](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202306531) Na Zhao, **Zehua Yu**,... Kang Liu&#42;
+[2. Non-invasive Monitoring of Biochemicals in Hydrogel-assisted Microfluidic Chips](https://pubs.rsc.org/en/content/articlelanding/2023/nr/d2nr06042f/unauth) Na Zhao, **Zehua Yu**,... Kang Liu&#42;
 
 [**Device design**]
 - This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
@@ -110,13 +109,18 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 
 [1. Hydrogel‐assisted Electrokinetics for High‐resolution and Non‐invasive Flow Monitoring in Microfluidic Chips](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.202300582) Na Zhao, Yanni Ma, **Zehua Yu**,... Kang Liu*, Chin. J. Chem. 42, 571-577.
 
-
-
 [4] Graphene materials & devices
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nanoscale 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[1. Fast Water Transport and Ionic Sieving in Ultrathin Stacked Nanoporous 2D Membranes](https://academic.oup.com/nsr/article/12/3/nwae482/7943705) Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Quan Yuan&#42;, Yanbing Yang&#42;
 
+[**Device design**]
+- This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
 
-
+</div>
+</div>
 
 # Honors and Awards
 - *2024.11* China National Scholarship (Top 0.2%), "Outstanding Student" title.
