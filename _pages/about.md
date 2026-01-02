@@ -75,12 +75,12 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 
 [2] Hydrogel electrolytes
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Lett. 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Adv. Mater. 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[5. Hetero-Polyionic Hydrogels Enable Dendrites-Free Aqueous Zn-I2 Batteries with Fast Kinetics](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202306531) Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Peihua Yang&#42;, Hong Jin Fan&#42;, 2023, Adv. Mater. 35, 2306531.
+[5. Hetero-Polyionic Hydrogels Enable Dendrites-Free Aqueous Zn-I2 Batteries with Fast Kinetics](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202306531) Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Peihua Yang&#42;, Hong Jin Fan&#42;
 
-[**Device design**]
+[**Electrolyte design**]
 - This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
 
 </div>
