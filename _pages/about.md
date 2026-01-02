@@ -29,6 +29,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 - *2025.06*: &nbsp; PhD Graduate in Mechanical Engineering, Wuhan University. 
 
 # Publications 
+[1] Efficienct heat transfer & utilization
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCCP 2025</div><img src='images/PCCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,7 +42,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 </div>
 </div>
 
-[17. Cationic–Zwitterionic Polymer Electrolytes with Enhanced Ionic Conductivity and Lithium‐Ion Selectivity for Solid‐State Batteries](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Tuo Xiao, Jinlin Xian, **Zehua Yu**,... Kang Liu&#42;, Peihua Yang&#42;, 2025, Angew. Chem. 137, e202514027.
+
 
 [16. All‐Polymer Polyethylene‐Hydrogel Felt for Efficient Evaporative Cooling and Ecological Restoration in Photovoltaic Power Plants](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Kaibin Zheng, Xifan Fu, Yongshun Ren, **Zehua Yu**,... Chaoji Chen&#42;, Kang Liu&#42; 2025, Adv. Mater. 37, 2501698.
 
@@ -71,6 +72,38 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 
 </div>
 </div>
+
+[2] Hydrogel electrolytes
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Lett. 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[5. Hetero-Polyionic Hydrogels Enable Dendrites-Free Aqueous Zn-I2 Batteries with Fast Kinetics](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202306531) Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Peihua Yang&#42;, Hong Jin Fan&#42;, 2023, Adv. Mater. 35, 2306531.
+
+[**Device design**]
+- This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
+
+</div>
+</div>
+
+[4. Thermal-gated Polyanionic Hydrogel Films for Stable and Smart Aqueous Batteries](https://www.sciencedirect.com/science/article/abs/pii/S2405829723005135) Zihan Zhuang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Kang Liu&#42;, Peihua Yang&#42;, Energy Storage Mater. 65, 103136.
+
+[3. Cationic–Zwitterionic Polymer Electrolytes with Enhanced Ionic Conductivity and Lithium‐Ion Selectivity for Solid‐State Batteries](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Tuo Xiao, Jinlin Xian, **Zehua Yu**,... Kang Liu&#42;, Peihua Yang&#42;, 2025, Angew. Chem. 137, e202514027.
+
+[2. Cation‐conduction Dominated Hydrogels for Durable Zinc–iodine Batteries](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202313610) Jinlin Yang, Tuo Xiao, Tao Xiao, Jia Li, **Zehua Yu**,... Peihua Yang&#42;, Hong Jin Fan&#42;, 2024, Adv. Mater. 36, 2313610.
+
+[1. Dielectric–metallic Double-gradient Composition Design for Stable Zn Metal Anodes](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.3c00367) Jinlin Yang, Lingli Liu, **Zehua Yu**,... Peihua Yang&#42;, Hong Jin Fan&#42;, 2023, ACS Energy Lett. 8, 2042-2050.
+
+
+
+
+[3] Microfluidics
+
+[4] Graphene materials & devices
+
+
+
+
 
 # Honors and Awards
 - *2024.11* China National Scholarship (Top 0.2%), "Outstanding Student" title.
