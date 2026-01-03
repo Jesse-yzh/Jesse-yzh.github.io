@@ -96,10 +96,10 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 [3. Stretchable and Self-powered Temperature–pressure Dual Sensing Ionic Skins Based on Thermogalvanic Hydrogels.](https://pubs.acs.org/doi/abs/10.1021/acsami.2c11124) Xifan Fu, Zihan Zhuang, Yifan Zhao, Binghan Liu, Yutian Liao, **Zehua Yu**,... Kang Liu*. 2022, ACS Appl. Mater. Interfaces 14, 44792-44798.
 
 
-[2. Boosting Alkaline Water Electrolysis by Asymmetric Temperature Modulation.](https://pubs.aip.org/aip/apl/article-abstract/119/1/013901/40253/Boosting-alkaline-water-electrolysis-by-asymmetric?redirectedFrom=fulltext) Qinpeng Zhu, Peihua Yang, Tao Zhang, **Zehua Yu**,... Hongjin Fan*. 2021, Appl. Phys. Lett. 119, 013901.
+[2. Boosting Alkaline Water Electrolysis by Asymmetric Temperature Modulation.](https://pubs.aip.org/aip/apl/article-abstract/119/1/013901/40253/Boosting-alkaline-water-electrolysis-by-asymmetric?redirectedFrom=fulltext) Qinpeng Zhu, Peihua Yang, Tao Zhang, <u>**Zehua Yu**</u>,... Hongjin Fan*. 2021, Appl. Phys. Lett. 119, 013901.
 
 
-[1. Polymer–water Interaction Enabled Intelligent Moisture Regulation in Hydrogels.](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c00034) Yuxi Liu, Xiaowei Liu, Bo Duan, **Zehua Yu**,... Kang Liu&#42;. 2021, J. Phys. Chem. Lett. 12, 2587-2592.
+[1. Polymer–water Interaction Enabled Intelligent Moisture Regulation in Hydrogels.](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c00034) Yuxi Liu, Xiaowei Liu, Bo Duan, <u>**Zehua Yu**</u>,... Kang Liu&#42;. 2021, J. Phys. Chem. Lett. 12, 2587-2592.
 <div style="height: 24px;"></div>
 
 **[2] Hydrogel electrolytes**
