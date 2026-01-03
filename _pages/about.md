@@ -33,7 +33,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCCP 2025</div><img src='images/PCCP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[1. Modelling of Water Evaporation in Hydrogels Considering the State of Water in Tension](https://pubs.rsc.org/en/content/articlehtml/2025/cp/d5cp02160j)
+[10. Modelling of Water Evaporation in Hydrogels Considering the State of Water in Tension](https://pubs.rsc.org/en/content/articlehtml/2025/cp/d5cp02160j)
 
 **Zehua Yu**, Yongshun Ren, Kang Liu*
 
@@ -46,7 +46,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Energy 2025</div><img src='images/NanoEnergy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[15. Spatial Moisture Architecture Enabled Sustainable Evaporative Cooling for Dual-glass Photovoltaic](https://www.sciencedirect.com/science/article/abs/pii/S2211285525006639)
+[9. Spatial Moisture Architecture Enabled Sustainable Evaporative Cooling for Dual-glass Photovoltaic](https://www.sciencedirect.com/science/article/abs/pii/S2211285525006639)
 
 **Zehua Yu**, Yongshun Ren, Kang Liu*
 
@@ -60,11 +60,11 @@ My work combined both experimental manufacturing and theoretical computation, I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Lett. 2024</div><img src='images/NanoLetter2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[High Breakthrough Pressure in Hydrogels Enabled Ultrastable Treatment of hypersaline wastewaters](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c00219)
+[8. High Breakthrough Pressure in Hydrogels Enabled Ultrastable Treatment of hypersaline wastewaters](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c00219)
 
 Yanni Ma<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Kang Liu&#42;
 
-[**Device design**]
+[**My contribution**]
 - This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
 
 </div>
@@ -74,11 +74,11 @@ Yanni Ma<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Kang Liu&#42;
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Lett. 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Negative Pressure in Water for Efficient Heat Utilization and Transfer](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.3c01855)
+[7. Negative Pressure in Water for Efficient Heat Utilization and Transfer](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.3c01855)
 
 Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#42;
 
-[**Device design**]
+[**My contribution**]
 - This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
 
 </div>
