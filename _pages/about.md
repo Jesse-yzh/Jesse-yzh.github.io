@@ -51,7 +51,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 **Zehua Yu**, Yongshun Ren, Kang Liu*
 
 [**Device design**]
-- This work proposes a continuous evaporative cooling system composed of a hydrogel–channel film and a hygroscopic salt solution reservoir. The hydrogel film, reservoir, and ambient air together form an "open heat-pipe-like" cycle, in which moisture absorbed by the reservoir continuously replenishes the water evaporated from the hydrogel surface.
+- This work proposed a continuous evaporative cooling system composed of a hydrogel–channel film and a hygroscopic salt solution reservoir. The hydrogel film, reservoir, and ambient air together form an "open heat-pipe-like" cycle, in which moisture absorbed by the reservoir continuously replenishes the water evaporated from the hydrogel surface.
 
 </div>
 </div>
@@ -65,7 +65,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 Yanni Ma<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Kang Liu&#42;
 
 [**My contribution**]
-- This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
+- Here, I contributed to the design of the hydrogel functional layer and tested the breakthrough pressure of the hydrogel-PTFE composite film. In addition, I performed MD/DFT calculations to elucidate the hydrogel–surfactant interaction mechanism.
 
 </div>
 </div>
@@ -79,7 +79,7 @@ Yanni Ma<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Kang Liu&#42;
 Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#42;
 
 [**My contribution**]
-- This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
+- Here, I contributed to the measurement of negative water pressure in the microchannels and performed all MD/DFT calculations to elucidate the mechanisms underlying the generation and maintenance of high negative pressures.
 
 </div>
 </div>
@@ -112,7 +112,7 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Hongjin Fan&#42;
 
 [**My contribution**]
-- This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
+- Here, I contributed to the design of hetero-polyionic hydrogels and performed preliminary fabrication and characterization of the hydrogels. In addition, I led the DFT calculations of binding energies, migration energy barriers, and reaction energy profiles.
 
 </div>
 </div>
@@ -135,7 +135,7 @@ Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Hongjin
 Na Zhao, **Zehua Yu**, Kang Liu&#42;
 
 [**My contribution**]
-- I proposed the concept of the hydrogel-assisted microfluidic chips, and carried out the preliminary validation.
+- Here, I proposed the concept of the hydrogel-assisted microfluidic chips, and carried out the preliminary validation.
 
 </div>
 </div>
@@ -153,7 +153,7 @@ Na Zhao, **Zehua Yu**, Kang Liu&#42;
 Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Quan Yuan&#42;
 
 [**My contribution**]
-- I led the molecular dynamics simulations on water transfer between the ultrathin graphene membrane.
+- Here, I led the MD simulations of the graphene–solution system and elucidated the mechanism of fast water transport across the ultrathin graphene membrane.
 
 </div>
 </div>
