@@ -51,7 +51,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 **Zehua Yu**, Yongshun Ren, Kang Liu*
 
 [**Device design**]
-- This work proposed a hydrogel-microchannel device to enable efficient evaporative cooling.
+- This work proposes a continuous evaporative cooling system composed of a hydrogel–microchannel device and a hygroscopic salt solution reservoir. The hydrogel device, the reservoir, and the ambient air together form an open heat-pipe-like cycle, in which moisture absorbed by the reservoir continuously replenishes the water evaporated from the hydrogel surface.
 
 </div>
 </div>
