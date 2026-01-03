@@ -162,9 +162,9 @@ Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</s
 
 3. Kang Liu, **Zehua Yu**, Rong Chen, Xifan Fu. A Hydrogel Microchannel-based Sustainable Evaporative Cooling Composite Film. CN Patent No. 202410349515.6.
 
-2. Kang Liu, Yuxi Liu, Zehua Yu, Shihao Xu, Peng Cheng. Hydrogel-microchannel based evaporative phase-change heat transfer component and its applications. CN Patent No. 202210161002.3.
+2. Kang Liu, Yuxi Liu, **Zehua Yu**, Shihao Xu, Peng Cheng. Hydrogel-microchannel based evaporative phase-change heat transfer component and its applications. CN Patent No. 202210161002.3.
 
-1. Kang Liu, Rui Fu, Na Zhao, Zehua Yu. A method for flow detection in microfluidic devices. CN Patent No. 202211605982.8.
+1. Kang Liu, Rui Fu, Na Zhao, **Zehua Yu**. A method for flow detection in microfluidic devices. CN Patent No. 202211605982.8.
 
 
 # Honors and Awards
