@@ -73,12 +73,22 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 [1. All‐Polymer Polyethylene‐Hydrogel Felt for Efficient Evaporative Cooling and Ecological Restoration in Photovoltaic Power Plants](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Kaibin Zheng, Xifan Fu, Yongshun Ren, **Zehua Yu**,... Chaoji Chen&#42;, Kang Liu&#42; 2025, Adv. Mater. 37, 2501698.
 
 
+[1. Isotonic Separation Enabled Efficient Low-grade Heat Conversion with Thermal-responsive Ionic Liquids](https://www.sciencedirect.com/science/article/abs/pii/S2468606924000340) **Zehua Yu**,... Peihua Yang&#42;, Kang Liu&#42;, Mater. Today Energy 40, 101522.
+
+
+[1. Non-contact Optical Characterization of Negative Pressure in Hydrogel Voids and Microchannels](https://link.springer.com/article/10.1007/s12200-022-00016-5) Shihao Xu, Xiaowei Liu, Zehua Yu, Kang Liu&#42;, Front. Optoelectron. 15, 10.
+
+
+[1. Polymer–water Interaction Enabled Intelligent Moisture Regulation in Hydrogels](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c00034) Yuxi Liu, Xiaowei Liu, Bo Duan, **Zehua Yu**,... Kang Liu&#42;, J. Phys. Chem. Lett. 12, 2587-2592.
+
+
 **[2] Hydrogel electrolytes**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Adv. Mater. 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[5. Hetero-polyionic Hydrogels Enable Dendrites-free Aqueous Zn-I<sub>2<sub> Batteries with Fast Kinetics](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202306531) 
+[5. Hetero-polyionic Hydrogels Enable Dendrites-free Aqueous Zn-I<sub>2</sub> Batteries with Fast Kinetics](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202306531) 
+
 Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Peihua Yang&#42;, Hongjin Fan&#42;
 
 [**Electrolyte design**]
@@ -96,7 +106,7 @@ Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Peihua Yang&#42;, Hong
 [1. Dielectric–metallic Double-gradient Composition Design for Stable Zn Metal Anodes](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.3c00367) Jinlin Yang, Lingli Liu, **Zehua Yu**,... Peihua Yang&#42;, Hongjin Fan&#42;, 2023, ACS Energy Lett. 8, 2042-2050.
 
 
-[3] Microfluidics
+**[3] Microfluidics**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nanoscale 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -110,12 +120,14 @@ Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Peihua Yang&#42;, Hong
 
 [1. Hydrogel‐assisted Electrokinetics for High‐resolution and Non‐invasive Flow Monitoring in Microfluidic Chips](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.202300582) Na Zhao, Yanni Ma, **Zehua Yu**,... Kang Liu*, Chin. J. Chem. 42, 571-577.
 
-[4] Graphene materials & devices
+**[4] Graphene materials & devices**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2025</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2025</div><img src='images/NSR2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[1. Fast Water Transport and Ionic Sieving in Ultrathin Stacked Nanoporous 2D Membranes](https://academic.oup.com/nsr/article/12/3/nwae482/7943705) Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Quan Yuan&#42;, Yanbing Yang&#42;
+[1. Fast Water Transport and Ionic Sieving in Ultrathin Stacked Nanoporous 2D Membranes](https://academic.oup.com/nsr/article/12/3/nwae482/7943705) 
+
+Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Quan Yuan&#42;, Yanbing Yang&#42;
 
 [**Device design**]
 - This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
