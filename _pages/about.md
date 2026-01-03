@@ -131,6 +131,7 @@ Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Hongjin
 <div class='paper-box-text' markdown="1">
   
 [2. Non-invasive Monitoring of Biochemicals in Hydrogel-assisted Microfluidic Chips](https://pubs.rsc.org/en/content/articlelanding/2023/nr/d2nr06042f/unauth) 
+
 Na Zhao, **Zehua Yu**,... Kang Liu&#42;
 
 [**My contribution**]
