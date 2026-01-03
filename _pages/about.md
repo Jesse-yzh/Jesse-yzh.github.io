@@ -100,7 +100,7 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 
 
 [1. Polymer–water Interaction Enabled Intelligent Moisture Regulation in Hydrogels.](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c00034) Yuxi Liu, Xiaowei Liu, Bo Duan, **Zehua Yu**,... Kang Liu&#42;. 2021, J. Phys. Chem. Lett. 12, 2587-2592.
-<br>
+<div style="height: 24px;"></div>
 
 **[2] Hydrogel electrolytes**
 
@@ -124,7 +124,7 @@ Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Hongjin
 [2. Cation‐conduction Dominated Hydrogels for Durable Zinc–iodine Batteries.](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202313610) Jinlin Yang, Tuo Xiao, Tao Xiao, Jia Li, **Zehua Yu**,... Peihua Yang&#42;, Hongjin Fan&#42;. 2024, Adv. Mater. 36, 2313610.
 
 [1. Dielectric–metallic Double-gradient Composition Design for Stable Zn Metal Anodes.](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.3c00367) Jinlin Yang, Lingli Liu, **Zehua Yu**,... Peihua Yang&#42;, Hongjin Fan&#42;. 2023, ACS Energy Lett. 8, 2042-2050.
-<br>
+<div style="height: 24px;"></div>
 
 **[3] Microfluidics**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nanoscale 2023</div><img src='images/Nanoscale2023.png' alt="sym" width="100%"></div></div>
