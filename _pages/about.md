@@ -184,7 +184,9 @@ Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</s
 
 # Skills
 Chemical computation (LAMMPS, VASP, Gaussian, Materials Studio); Data analysis and visualization (MATLAB, Python, and Origin); Computational fluid dynamics (Fluent, COMSOL); Design drawing (AutoCAD, SOLIDWORKS and KeyShot); Image and video editing (Photoshop, Premiere)
+
 Languages: Mandarin (Native), English (Bilingual proficiency, IELTS: 6.5)
+
 Interests: Badminton (College badminton men's singles runner-up), Tennis, Photographing, Traveling, Breaking
 
 <div style="height: 100px;"></div>
