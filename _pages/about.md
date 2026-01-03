@@ -87,7 +87,7 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 [1. All‐Polymer Polyethylene‐Hydrogel Felt for Efficient Evaporative Cooling and Ecological Restoration in Photovoltaic Power Plants](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Kaibin Zheng, Xifan Fu, Yongshun Ren, **Zehua Yu**,... Chaoji Chen&#42;, Kang Liu&#42; 2025, Adv. Mater. 37, 2501698.
 
 
-[1. Isotonic Separation Enabled Efficient Low-grade Heat Conversion with Thermal-responsive Ionic Liquids](https://www.sciencedirect.com/science/article/abs/pii/S2468606924000340) **Zehua Yu**,... Peihua Yang&#42;, Kang Liu&#42;, Mater. Today Energy 40, 101522.
+[1. Isotonic Separation Enabled Efficient Low-grade Heat Conversion with Thermal-responsive Ionic Liquids](https://www.sciencedirect.com/science/article/abs/pii/S2468606924000340) **Zehua Yu**,... Peihua Yang&#42;, Kang Liu&#42; 2024 Mater. Today Energy 40, 101522.
 
 
 [4. Non-contact Optical Characterization of Negative Pressure in Hydrogel Voids and Microchannels](https://link.springer.com/article/10.1007/s12200-022-00016-5) Shihao Xu, Xiaowei Liu, Zehua Yu, Kang Liu&#42; 2022, Front. Optoelectron. 15, 10.
