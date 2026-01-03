@@ -84,7 +84,7 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 </div>
 </div>
 
-[6. All‐Polymer Polyethylene‐Hydrogel Felt for Efficient Evaporative Cooling and Ecological Restoration in Photovoltaic Power Plants](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Kaibin Zheng, Xifan Fu, Yongshun Ren, **Zehua Yu**,... Chaoji Chen&#42;, Kang Liu&#42;. 2025, Adv. Mater. 37, 2501698.
+[6. All‐Polymer Polyethylene‐Hydrogel Felt for Efficient Evaporative Cooling and Ecological Restoration in Photovoltaic Power Plants](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202501698) Kaibin Zheng, Xifan Fu, Yongshun Ren, **Zehua Yu**,... Chaoji Chen&#42;, Kang Liu&#42;. 2025, Adv. Mater. 37, 2501698.
 
 
 [5. Isotonic Separation Enabled Efficient Low-grade Heat Conversion with Thermal-responsive Ionic Liquids.](https://www.sciencedirect.com/science/article/abs/pii/S2468606924000340) **Zehua Yu**,... Peihua Yang&#42; Kang Liu&#42;. 2024, Mater. Today Energy 40, 101522.
@@ -151,6 +151,13 @@ Na Zhao, **Zehua Yu**,... Kang Liu&#42;
 
 Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Quan Yuan&#42;
 
+[**My contribution**]
+- I led the molecular dynamics simulations on water transfer between the ultrathin graphene membrane.
+
+</div>
+</div>
+
+
 **[5] Patents**
 
 3. Kang Liu, **Zehua Yu**, Rong Chen, Xifan Fu. A Hydrogel Microchannel-based Sustainable Evaporative Cooling Composite Film. CN Patent No. 202410349515.6.
@@ -159,11 +166,6 @@ Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</s
 
 1. Kang Liu, Rui Fu, Na Zhao, Zehua Yu. A method for flow detection in microfluidic devices. CN Patent No. 202211605982.8.
 
-[**My contribution**]
-- I led the molecular dynamics simulations on water transfer between the ultrathin graphene membrane.
-
-</div>
-</div>
 
 # Honors and Awards
 - *2024.11* China National Scholarship (Top 0.2%), "Outstanding Student" title.
