@@ -130,7 +130,8 @@ Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Hongjin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nanoscale 2023</div><img src='images/Nanoscale2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[2. Non-invasive Monitoring of Biochemicals in Hydrogel-assisted Microfluidic Chips](https://pubs.rsc.org/en/content/articlelanding/2023/nr/d2nr06042f/unauth) Na Zhao, **Zehua Yu**,... Kang Liu&#42;
+[2. Non-invasive Monitoring of Biochemicals in Hydrogel-assisted Microfluidic Chips](https://pubs.rsc.org/en/content/articlelanding/2023/nr/d2nr06042f/unauth) 
+Na Zhao, **Zehua Yu**,... Kang Liu&#42;
 
 [**My contribution**]
 - I proposed the concept of the hydrogel-assisted microfluidic chips, and carried out the preliminary validation.
