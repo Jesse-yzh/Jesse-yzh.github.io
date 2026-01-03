@@ -57,7 +57,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Lett. 2024</div><img src='images/NanoLetter2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Lett. 2024</div><img src='images/Nanoletter2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [8. High Breakthrough Pressure in Hydrogels Enabled Ultrastable Treatment of hypersaline wastewaters](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c00219)
