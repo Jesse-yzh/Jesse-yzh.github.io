@@ -59,10 +59,10 @@ My work combined both experimental manufacturing and theoretical computation, I 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Lett. 2024</div><img src='images/NanoLetter2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-[High Breakthrough Pressure in Hydrogels Enabled Ultrastable Treatment of hypersaline wastewaters](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.3c01855)
 
-Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#42;
+[High Breakthrough Pressure in Hydrogels Enabled Ultrastable Treatment of hypersaline wastewaters](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.4c00219)
+
+Yanni Ma<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Kang Liu&#42;
 
 [**Device design**]
 - This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
@@ -84,22 +84,22 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 </div>
 </div>
 
-[1. All‐Polymer Polyethylene‐Hydrogel Felt for Efficient Evaporative Cooling and Ecological Restoration in Photovoltaic Power Plants](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Kaibin Zheng, Xifan Fu, Yongshun Ren, **Zehua Yu**,... Chaoji Chen&#42;, Kang Liu&#42; 2025, Adv. Mater. 37, 2501698.
+[6. All‐Polymer Polyethylene‐Hydrogel Felt for Efficient Evaporative Cooling and Ecological Restoration in Photovoltaic Power Plants](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Kaibin Zheng, Xifan Fu, Yongshun Ren, **Zehua Yu**,... Chaoji Chen&#42;, Kang Liu&#42; 2025, Adv. Mater. 37, 2501698.
 
 
-[1. Isotonic Separation Enabled Efficient Low-grade Heat Conversion with Thermal-responsive Ionic Liquids](https://www.sciencedirect.com/science/article/abs/pii/S2468606924000340) **Zehua Yu**,... Peihua Yang&#42;, Kang Liu&#42; 2024 Mater. Today Energy 40, 101522.
+[5. Isotonic Separation Enabled Efficient Low-grade Heat Conversion with Thermal-responsive Ionic Liquids.](https://www.sciencedirect.com/science/article/abs/pii/S2468606924000340) **Zehua Yu**,... Peihua Yang&#42; Kang Liu&#42;. 2024, Mater. Today Energy 40, 101522.
 
 
-[4. Non-contact Optical Characterization of Negative Pressure in Hydrogel Voids and Microchannels](https://link.springer.com/article/10.1007/s12200-022-00016-5) Shihao Xu, Xiaowei Liu, Zehua Yu, Kang Liu&#42; 2022, Front. Optoelectron. 15, 10.
+[4. Non-contact Optical Characterization of Negative Pressure in Hydrogel Voids and Microchannels.](https://link.springer.com/article/10.1007/s12200-022-00016-5) Shihao Xu, Xiaowei Liu, Zehua Yu, Kang Liu&#42; 2022, Front. Optoelectron. 15, 10.
 
 
-[3. Stretchable and Self-powered Temperature–pressure Dual Sensing Ionic Skins Based on Thermogalvanic Hydrogels](https://pubs.acs.org/doi/abs/10.1021/acsami.2c11124) Xifan Fu,... **Zehua Yu**,... Kang Liu* 2022, ACS Appl. Mater. Interfaces 14, 44792-44798.
+[3. Stretchable and Self-powered Temperature–pressure Dual Sensing Ionic Skins Based on Thermogalvanic Hydrogels.](https://pubs.acs.org/doi/abs/10.1021/acsami.2c11124) Xifan Fu, Zihan Zhuang, Yifan Zhao, Binghan Liu, Yutian Liao, **Zehua Yu**,... Kang Liu* 2022, ACS Appl. Mater. Interfaces 14, 44792-44798.
 
 
-[2. Boosting Alkaline Water Electrolysis by Asymmetric Temperature Modulation](https://pubs.aip.org/aip/apl/article-abstract/119/1/013901/40253/Boosting-alkaline-water-electrolysis-by-asymmetric?redirectedFrom=fulltext) Qinpeng Zhu,... **Zehua Yu**,... Hongjin Fan* 2021, Appl. Phys. Lett. 119, 013901.
+[2. Boosting Alkaline Water Electrolysis by Asymmetric Temperature Modulation.](https://pubs.aip.org/aip/apl/article-abstract/119/1/013901/40253/Boosting-alkaline-water-electrolysis-by-asymmetric?redirectedFrom=fulltext) Qinpeng Zhu, Peihua Yang, Tao Zhang, **Zehua Yu**,... Hongjin Fan* 2021, Appl. Phys. Lett. 119, 013901.
 
 
-[1. Polymer–water Interaction Enabled Intelligent Moisture Regulation in Hydrogels](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c00034) Yuxi Liu, Xiaowei Liu, Bo Duan, **Zehua Yu**,... Kang Liu&#42;, 2021, J. Phys. Chem. Lett. 12, 2587-2592.
+[1. Polymer–water Interaction Enabled Intelligent Moisture Regulation in Hydrogels.](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c00034) Yuxi Liu, Xiaowei Liu, Bo Duan, **Zehua Yu**,... Kang Liu&#42;, 2021, J. Phys. Chem. Lett. 12, 2587-2592.
 
 
 **[2] Hydrogel electrolytes**
