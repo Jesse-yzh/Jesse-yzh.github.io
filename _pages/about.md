@@ -127,18 +127,18 @@ Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Hongjin
 
 
 **[3] Microfluidics**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nanoscale 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nanoscale 2023</div><img src='images/Nanoscale2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [2. Non-invasive Monitoring of Biochemicals in Hydrogel-assisted Microfluidic Chips](https://pubs.rsc.org/en/content/articlelanding/2023/nr/d2nr06042f/unauth) Na Zhao, **Zehua Yu**,... Kang Liu&#42;
 
-[**Device design**]
-- This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
+[**My contribution**]
+- I proposed the concept of the hydrogel-assisted microfluidic chips, and carried out the preliminary validation.
 
 </div>
 </div>
 
-[1. Hydrogel‐assisted Electrokinetics for High‐resolution and Non‐invasive Flow Monitoring in Microfluidic Chips](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.202300582) Na Zhao, Yanni Ma, **Zehua Yu**,... Kang Liu*, Chin. J. Chem. 42, 571-577.
+[1. Hydrogel‐assisted Electrokinetics for High‐resolution and Non‐invasive Flow Monitoring in Microfluidic Chips.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.202300582) Na Zhao, Yanni Ma, **Zehua Yu**,... Kang Liu*, Chin. J. Chem. 42, 571-577.
 
 **[4] Graphene materials & devices**
 
@@ -147,10 +147,10 @@ Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Hongjin
   
 [1. Fast Water Transport and Ionic Sieving in Ultrathin Stacked Nanoporous 2D Membranes](https://academic.oup.com/nsr/article/12/3/nwae482/7943705) 
 
-Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Quan Yuan&#42;, Yanbing Yang&#42;
+Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Quan Yuan&#42;
 
-[**Device design**]
-- This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
+[**My contribution**]
+- I led the molecular dynamics simulations on water transfer between the ultrathin graphene membrane.
 
 </div>
 </div>
