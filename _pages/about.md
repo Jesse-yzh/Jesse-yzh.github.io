@@ -104,26 +104,26 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 
 **[2] Hydrogel electrolytes**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Adv. Mater. 2023</div><img src='images/NanoLetter2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Adv. Mater. 2023</div><img src='images/AM2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [5. Hetero-polyionic Hydrogels Enable Dendrites-free Aqueous Zn-I<sub>2</sub> Batteries with Fast Kinetics](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202306531) 
 
-Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Peihua Yang&#42;, Hongjin Fan&#42;
+Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Hongjin Fan&#42;
 
-[**Electrolyte design**]
+[**My contribution**]
 - This work proposed a hydrogel-microchannel device to realise efficient heat utilization and transfer.
 
 </div>
 </div>
 
-[4. Thermal-gated Polyanionic Hydrogel Films for Stable and Smart Aqueous Batteries](https://www.sciencedirect.com/science/article/abs/pii/S2405829723005135) Zihan Zhuang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Kang Liu&#42;, Peihua Yang&#42;, Energy Storage Mater. 65, 103136.
+[4. Thermal-gated Polyanionic Hydrogel Films for Stable and Smart Aqueous Batteries.](https://www.sciencedirect.com/science/article/abs/pii/S2405829723005135) Zihan Zhuang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Kang Liu&#42;, Peihua Yang&#42; 2024, Energy Storage Mater. 65, 103136.
 
-[3. Cationic–Zwitterionic Polymer Electrolytes with Enhanced Ionic Conductivity and Lithium‐Ion Selectivity for Solid‐State Batteries](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Tuo Xiao, Jinlin Xian, **Zehua Yu**,... Kang Liu&#42;, Peihua Yang&#42;, 2025, Angew. Chem. 137, e202514027.
+[3. Cationic–Zwitterionic Polymer Electrolytes with Enhanced Ionic Conductivity and Lithium‐Ion Selectivity for Solid‐State Batteries.](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Tuo Xiao, Jinlin Xian, **Zehua Yu**,... Kang Liu&#42;, Peihua Yang&#42; 2025, Angew. Chem. 137, e202514027.
 
-[2. Cation‐conduction Dominated Hydrogels for Durable Zinc–iodine Batteries](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202313610) Jinlin Yang, Tuo Xiao, Tao Xiao, Jia Li, **Zehua Yu**,... Peihua Yang&#42;, Hongjin Fan&#42;, 2024, Adv. Mater. 36, 2313610.
+[2. Cation‐conduction Dominated Hydrogels for Durable Zinc–iodine Batteries.](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202313610) Jinlin Yang, Tuo Xiao, Tao Xiao, Jia Li, **Zehua Yu**,... Peihua Yang&#42;, Hongjin Fan&#42; 2024, Adv. Mater. 36, 2313610.
 
-[1. Dielectric–metallic Double-gradient Composition Design for Stable Zn Metal Anodes](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.3c00367) Jinlin Yang, Lingli Liu, **Zehua Yu**,... Peihua Yang&#42;, Hongjin Fan&#42;, 2023, ACS Energy Lett. 8, 2042-2050.
+[1. Dielectric–metallic Double-gradient Composition Design for Stable Zn Metal Anodes.](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.3c00367) Jinlin Yang, Lingli Liu, **Zehua Yu**,... Peihua Yang&#42;, Hongjin Fan&#42; 2023, ACS Energy Lett. 8, 2042-2050.
 
 
 **[3] Microfluidics**
