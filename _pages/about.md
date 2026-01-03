@@ -182,6 +182,8 @@ Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</s
 **MCAA AsiaConnect: Innovation and Multidisciplinary Collaboration**, oral presentation, "structure, function and application of hydrogels across energy and thermal systems". 
 - *2023.06*, **The 33rd CCS Congress**, poster, "Isotonic separation enabled efficient low-grade heat conversion with thermal-responsive ionic liquids".
 
+<div style="height: 100px;"></div>
+
 
 
 
