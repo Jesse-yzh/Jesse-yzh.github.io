@@ -84,19 +84,19 @@ Yuxi Liu<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Kang Liu&#
 </div>
 </div>
 
-[6. All‐Polymer Polyethylene‐Hydrogel Felt for Efficient Evaporative Cooling and Ecological Restoration in Photovoltaic Power Plants](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202501698) Kaibin Zheng, Xifan Fu, Yongshun Ren, **Zehua Yu**,... Chaoji Chen&#42;, Kang Liu&#42;. 2025, Adv. Mater. 37, 2501698.
+[6. All‐Polymer Polyethylene‐Hydrogel Felt for Efficient Evaporative Cooling and Ecological Restoration in Photovoltaic Power Plants](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202501698) Kaibin Zheng, Xifan Fu, Yongshun Ren, **<u>Zehua Yu</u>**,... Chaoji Chen&#42;, Kang Liu&#42;. 2025, Adv. Mater. 37, 2501698.
 
 
-[5. Isotonic Separation Enabled Efficient Low-grade Heat Conversion with Thermal-responsive Ionic Liquids.](https://www.sciencedirect.com/science/article/abs/pii/S2468606924000340) **Zehua Yu**,... Peihua Yang&#42; Kang Liu&#42;. 2024, Mater. Today Energy 40, 101522.
+[5. Isotonic Separation Enabled Efficient Low-grade Heat Conversion with Thermal-responsive Ionic Liquids.](https://www.sciencedirect.com/science/article/abs/pii/S2468606924000340) **<u>Zehua Yu</u>**,... Peihua Yang&#42; Kang Liu&#42;. 2024, Mater. Today Energy 40, 101522.
 
 
-[4. Non-contact Optical Characterization of Negative Pressure in Hydrogel Voids and Microchannels.](https://link.springer.com/article/10.1007/s12200-022-00016-5) Shihao Xu, Xiaowei Liu, Zehua Yu, Kang Liu&#42;. 2022, Front. Optoelectron. 15, 10.
+[4. Non-contact Optical Characterization of Negative Pressure in Hydrogel Voids and Microchannels.](https://link.springer.com/article/10.1007/s12200-022-00016-5) Shihao Xu, Xiaowei Liu, **<u>Zehua Yu</u>**, Kang Liu&#42;. 2022, Front. Optoelectron. 15, 10.
 
 
-[3. Stretchable and Self-powered Temperature–pressure Dual Sensing Ionic Skins Based on Thermogalvanic Hydrogels.](https://pubs.acs.org/doi/abs/10.1021/acsami.2c11124) Xifan Fu, Zihan Zhuang, Yifan Zhao, Binghan Liu, Yutian Liao, **Zehua Yu**,... Kang Liu*. 2022, ACS Appl. Mater. Interfaces 14, 44792-44798.
+[3. Stretchable and Self-powered Temperature–pressure Dual Sensing Ionic Skins Based on Thermogalvanic Hydrogels.](https://pubs.acs.org/doi/abs/10.1021/acsami.2c11124) Xifan Fu, Zihan Zhuang, Yifan Zhao, Binghan Liu, Yutian Liao, **<u>Zehua Yu</u>**,... Kang Liu*. 2022, ACS Appl. Mater. Interfaces 14, 44792-44798.
 
 
-[2. Boosting Alkaline Water Electrolysis by Asymmetric Temperature Modulation.](https://pubs.aip.org/aip/apl/article-abstract/119/1/013901/40253/Boosting-alkaline-water-electrolysis-by-asymmetric?redirectedFrom=fulltext) Qinpeng Zhu, Peihua Yang, Tao Zhang, **Zehua Yu**,... Hongjin Fan*. 2021, Appl. Phys. Lett. 119, 013901.
+[2. Boosting Alkaline Water Electrolysis by Asymmetric Temperature Modulation.](https://pubs.aip.org/aip/apl/article-abstract/119/1/013901/40253/Boosting-alkaline-water-electrolysis-by-asymmetric?redirectedFrom=fulltext) Qinpeng Zhu, Peihua Yang, Tao Zhang, **<u>Zehua Yu</u>**,... Hongjin Fan*. 2021, Appl. Phys. Lett. 119, 013901.
 
 
 [1. Polymer–water Interaction Enabled Intelligent Moisture Regulation in Hydrogels.](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.1c00034) Yuxi Liu, Xiaowei Liu, Bo Duan, **<u>Zehua Yu</u>**,... Kang Liu&#42;. 2021, J. Phys. Chem. Lett. 12, 2587-2592.
@@ -117,13 +117,13 @@ Jinlin Yang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Peihua Yang&#42;, Hongjin
 </div>
 </div>
 
-[4. Thermal-gated Polyanionic Hydrogel Films for Stable and Smart Aqueous Batteries.](https://www.sciencedirect.com/science/article/abs/pii/S2405829723005135) Zihan Zhuang<sup>†</sup>, **Zehua Yu<sup>†</sup>**,... Kang Liu&#42;, Peihua Yang&#42;. 2024, Energy Storage Mater. 65, 103136.
+[4. Thermal-gated Polyanionic Hydrogel Films for Stable and Smart Aqueous Batteries.](https://www.sciencedirect.com/science/article/abs/pii/S2405829723005135) Zihan Zhuang<sup>†</sup>, **<u>Zehua Yu<sup>†</sup></u>**,... Kang Liu&#42;, Peihua Yang&#42;. 2024, Energy Storage Mater. 65, 103136.
 
-[3. Cationic–Zwitterionic Polymer Electrolytes with Enhanced Ionic Conductivity and Lithium‐Ion Selectivity for Solid‐State Batteries.](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Tuo Xiao, Jinlin Xian, **Zehua Yu**,... Kang Liu&#42;, Peihua Yang&#42;. 2025, Angew. Chem. 137, e202514027.
+[3. Cationic–Zwitterionic Polymer Electrolytes with Enhanced Ionic Conductivity and Lithium‐Ion Selectivity for Solid‐State Batteries.](https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.202514027) Tuo Xiao, Jinlin Xian, **<u>Zehua Yu</u>**,... Kang Liu&#42;, Peihua Yang&#42;. 2025, Angew. Chem. 137, e202514027.
 
-[2. Cation‐conduction Dominated Hydrogels for Durable Zinc–iodine Batteries.](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202313610) Jinlin Yang, Tuo Xiao, Tao Xiao, Jia Li, **Zehua Yu**,... Peihua Yang&#42;, Hongjin Fan&#42;. 2024, Adv. Mater. 36, 2313610.
+[2. Cation‐conduction Dominated Hydrogels for Durable Zinc–iodine Batteries.](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202313610) Jinlin Yang, Tuo Xiao, Tao Xiao, Jia Li, **<u>Zehua Yu</u>**,... Peihua Yang&#42;, Hongjin Fan&#42;. 2024, Adv. Mater. 36, 2313610.
 
-[1. Dielectric–metallic Double-gradient Composition Design for Stable Zn Metal Anodes.](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.3c00367) Jinlin Yang, Lingli Liu, **Zehua Yu**,... Peihua Yang&#42;, Hongjin Fan&#42;. 2023, ACS Energy Lett. 8, 2042-2050.
+[1. Dielectric–metallic Double-gradient Composition Design for Stable Zn Metal Anodes.](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.3c00367) Jinlin Yang, Lingli Liu, **<u>Zehua Yu</u>**,... Peihua Yang&#42;, Hongjin Fan&#42;. 2023, ACS Energy Lett. 8, 2042-2050.
 <div style="height: 24px;"></div>
 
 **[3] Microfluidics**
@@ -140,7 +140,7 @@ Na Zhao, **Zehua Yu**, Kang Liu&#42;
 </div>
 </div>
 
-[1. Hydrogel‐assisted Electrokinetics for High‐resolution and Non‐invasive Flow Monitoring in Microfluidic Chips.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.202300582) Na Zhao, Yanni Ma, **Zehua Yu**,... Kang Liu*. Chin. J. Chem. 42, 571-577.
+[1. Hydrogel‐assisted Electrokinetics for High‐resolution and Non‐invasive Flow Monitoring in Microfluidic Chips.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.202300582) Na Zhao, Yanni Ma, **<u>Zehua Yu</u>**,... Kang Liu*. Chin. J. Chem. 42, 571-577.
 <div style="height: 24px;"></div>
 
 **[4] Graphene materials & devices**
@@ -181,6 +181,11 @@ Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</s
 - *2025.11*, 
 **MCAA AsiaConnect: Innovation and Multidisciplinary Collaboration**, oral presentation, "structure, function and application of hydrogels across energy and thermal systems". 
 - *2023.06*, **The 33rd CCS Congress**, poster, "Isotonic separation enabled efficient low-grade heat conversion with thermal-responsive ionic liquids".
+
+# Skills
+Chemical computation (LAMMPS, VASP, Gaussian, Materials Studio); Data analysis and visualization (MATLAB, Python, and Origin); Computational fluid dynamics (Fluent, COMSOL); Design drawing (AutoCAD, SOLIDWORKS and KeyShot); Image and video editing (Photoshop, Premiere)
+Languages: Mandarin (Native), English (Bilingual proficiency, IELTS: 6.5)
+Interests: Badminton (College badminton men's singles runner-up), Tennis, Photographing, Traveling, Breaking
 
 <div style="height: 100px;"></div>
 
