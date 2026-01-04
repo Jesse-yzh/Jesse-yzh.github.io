@@ -161,11 +161,11 @@ Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</s
 
 **[5] Patents**
 
-3. Kang Liu, **Zehua Yu**, Rong Chen, Xifan Fu. A Hydrogel Microchannel-based Sustainable Evaporative Cooling Composite Film. CN Patent No. 202410349515.6.
+3. Kang Liu, **<u>Zehua Yu</u>**, Rong Chen, Xifan Fu. A Hydrogel Microchannel-based Sustainable Evaporative Cooling Composite Film. CN Patent No. 202410349515.6.
 
-2. Kang Liu, Yuxi Liu, **Zehua Yu**, Shihao Xu, Peng Cheng. Hydrogel-microchannel based evaporative phase-change heat transfer component and its applications. CN Patent No. 202210161002.3.
+2. Kang Liu, Yuxi Liu, **<u>Zehua Yu</u>**, Shihao Xu, Peng Cheng. Hydrogel-microchannel based evaporative phase-change heat transfer component and its applications. CN Patent No. 202210161002.3.
 
-1. Kang Liu, Rui Fu, Na Zhao, **Zehua Yu**. A method for flow detection in microfluidic devices. CN Patent No. 202211605982.8.
+1. Kang Liu, Rui Fu, Na Zhao, **<u>Zehua Yu</u>**. A method for flow detection in microfluidic devices. CN Patent No. 202211605982.8.
 
 
 # Honors and Awards
@@ -183,7 +183,7 @@ Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</s
 - *2023.06*, **The 33rd CCS Congress**, poster, "Isotonic separation enabled efficient low-grade heat conversion with thermal-responsive ionic liquids".
 
 # Skills
-Chemical computation (LAMMPS, VASP, Gaussian, Materials Studio); Data analysis and visualization (MATLAB, Python, and Origin); Computational fluid dynamics (Fluent, COMSOL); Design drawing (AutoCAD, SOLIDWORKS and KeyShot); Image and video editing (Photoshop, Premiere)
+**Chemical computation** (LAMMPS, VASP, Gaussian, Materials Studio); **Data analysis and visualization** (MATLAB, Python, and Origin); **Computational fluid dynamics** (Fluent, COMSOL); **Design drawing** (AutoCAD, SOLIDWORKS and KeyShot); **Image and video editing** (Photoshop, Premiere)
 
 Languages: Mandarin (Native), English (Bilingual proficiency, IELTS: 6.5)
 
