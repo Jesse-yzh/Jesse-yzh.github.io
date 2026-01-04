@@ -30,6 +30,7 @@ My work combined both experimental manufacturing and theoretical computation, I 
 
 # Publications 
 <div style="height: 12px;"></div>
+
 **[1] Efficienct heat transfer & utilization**
 († denotes equal contribution)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PCCP 2025</div><img src='images/PCCP.png' alt="sym" width="100%"></div></div>
