@@ -20,7 +20,7 @@ redirect_from:
 
 I currently hold a Ph.D. degree in Mechanical Engineering & Materials Science from Wuhan University. My studies focus on: 1) multiscale modelling and computation of soft materials, 2) structure-function relationship of hydrogels, and 3) applications of hydrogels in water-energy nexus and microfluidics.
 
-So far, I have published 18 papers, of which 8 are first/co-first-author publications in top-tier journals such as Adv. Mater., Nano lett., Nano Energy etc., with total <a href='https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>. 
+So far, I have published 19 papers, of which 9 are first/co-first-author publications in top-tier journals such as Adv. Mater., Nano lett., Nano Energy etc., with total <a href='https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>. 
 
 My work combined both experimental manufacturing and theoretical computation, I have gained extensive experience in fabrication of hydrogel-based devices and developed a solid foundation in polymer science and computational chemistry. In particular, I am proficient in conducting molecular dynamics (MD) simulations (LAMMPS, Python) and density functional theory (DFT) calculations (VASP, Gaussian) for polymer solution systems.
 
@@ -151,7 +151,7 @@ Na Zhao, **Zehua Yu**, Kang Liu&#42;
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2025</div><img src='images/NSR2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[1. Fast Water Transport and Ionic Sieving in Ultrathin Stacked Nanoporous 2D Membranes](https://academic.oup.com/nsr/article/12/3/nwae482/7943705) 
+[2. Fast Water Transport and Ionic Sieving in Ultrathin Stacked Nanoporous 2D Membranes](https://academic.oup.com/nsr/article/12/3/nwae482/7943705) 
 
 Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</sup>**, Quan Yuan&#42;
 
@@ -160,6 +160,8 @@ Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</s
 
 </div>
 </div>
+
+[1. Ion-selective graphene nanomesh membrane for sustainable osmotic power generation.] Zhipeng Gao<sup>†</sup>, **<u>Zehua Yu<sup>†</sup></u>**,... Quan Yuan*. NSR, accepted.
 <div style="height: 24px;"></div>
 
 **[5] Patents**
