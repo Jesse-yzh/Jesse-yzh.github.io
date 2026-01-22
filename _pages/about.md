@@ -161,7 +161,7 @@ Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</s
 </div>
 </div>
 
-[1. Ion-selective graphene nanomesh membrane for sustainable osmotic power generation.] Zhipeng Gao<sup>†</sup>, **<u>Zehua Yu<sup>†</sup></u>**,... Quan Yuan*. NSR, accepted.
+[1. Ion-selective graphene nanomesh membrane for sustainable osmotic power generation.](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag026/8431501) Zhipeng Gao<sup>†</sup>, Yuyan Gao<sup>†</sup>, **<u>Zehua Yu<sup>†</sup></u>**,... Quan Yuan*. NSR, accepted.
 <div style="height: 24px;"></div>
 
 **[5] Patents**
