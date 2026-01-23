@@ -143,7 +143,7 @@ Na Zhao, **Zehua Yu**, Kang Liu&#42;
 </div>
 </div>
 
-[1. Hydrogel‐assisted Electrokinetics for High‐resolution and Non‐invasive Flow Monitoring in Microfluidic Chips.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.202300582) Na Zhao, Yanni Ma, **<u>Zehua Yu</u>**,... Kang Liu*. Chin. J. Chem. 42, 571-577.
+[1. Hydrogel‐assisted Electrokinetics for High‐resolution and Non‐invasive Flow Monitoring in Microfluidic Chips.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.202300582) Na Zhao, Yanni Ma, **<u>Zehua Yu</u>**,... Kang Liu*. Chin. J. Chem. 2024, 42, 571-577.
 <div style="height: 24px;"></div>
 
 **[4] Graphene materials & devices**
@@ -161,7 +161,7 @@ Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</s
 </div>
 </div>
 
-[1. Ion-selective graphene nanomesh membrane for sustainable osmotic power generation.](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag026/8431501) Zhipeng Gao<sup>†</sup>, Yuyan Gao<sup>†</sup>, **<u>Zehua Yu<sup>†</sup></u>**,... Quan Yuan*. NSR, accepted.
+[1. Ion-selective graphene nanomesh membrane for sustainable osmotic power generation.](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag026/8431501) Zhipeng Gao<sup>†</sup>, Yuyan Gao<sup>†</sup>, **<u>Zehua Yu<sup>†</sup></u>**,... Quan Yuan*. 2026, NSR, nwag026.
 <div style="height: 24px;"></div>
 
 **[5] Patents**
