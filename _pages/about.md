@@ -143,7 +143,7 @@ Na Zhao, **Zehua Yu**, Kang Liu&#42;
 </div>
 </div>
 
-[1. Hydrogel‐assisted Electrokinetics for High‐resolution and Non‐invasive Flow Monitoring in Microfluidic Chips.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.202300582) Na Zhao, Yanni Ma, **<u>Zehua Yu</u>**,... Kang Liu*. Chin. J. Chem. 2024, 42, 571-577.
+[1. Hydrogel‐assisted Electrokinetics for High‐resolution and Non‐invasive Flow Monitoring in Microfluidic Chips.](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.202300582) Na Zhao, Yanni Ma, **<u>Zehua Yu</u>**,... Kang Liu*. 2024, Chin. J. Chem., 42, 571-577.
 <div style="height: 24px;"></div>
 
 **[4] Graphene materials & devices**
