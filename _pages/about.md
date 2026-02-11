@@ -25,7 +25,7 @@ So far, I have published 19 papers, of which 9 are first/co-first-author publica
 My work combined both experimental manufacturing and theoretical computation, I have gained extensive experience in fabrication of hydrogel-based devices and developed a solid foundation in polymer science and computational chemistry. In particular, I am proficient in conducting molecular dynamics (MD) simulations (LAMMPS, Python) and density functional theory (DFT) calculations (VASP, Gaussian) for polymer solution systems.
 
 # News
-- 🔥*Now*: &nbsp; Seeking Postdoc / Research Assistant Position. 
+- 🔥*Now*: &nbsp; Seeking Postdoc / Research Assistant Position.
 - *2025.06*: &nbsp; PhD Graduate in Mechanical Engineering, Wuhan University. 
 
 # Publications 
@@ -192,7 +192,7 @@ Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</s
 
 Languages: Mandarin (Native), English (Bilingual proficiency, IELTS: 6.5)
 
-Interests: Badminton (College badminton men's singles runner-up), Tennis, Photographing, Traveling, Breaking
+Interests: **Badminton** (College badminton men's singles runner-up), **Photographing** (Contract photographer with 500px China), **Tennis**, **Traveling**, **Breaking**
 
 <div style="height: 100px;"></div>
 
