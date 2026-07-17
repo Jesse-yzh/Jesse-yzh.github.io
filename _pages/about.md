@@ -18,14 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About
 
-I currently hold a Ph.D. degree in Mechanical Engineering & Materials Science from Wuhan University. My studies focus on: 1) multiscale modelling and computation of soft materials, 2) structure-function relationship of hydrogels, and 3) applications of hydrogels in water-energy nexus and microfluidics.
+I am going to join Prof. Metin Sitti’s group at Koç University as a postdoctoral researcher. My research will focus on: 1) the advanced design & fabrication of flexible electronics; 2) AI-enhanced sensing and actuation; and 3) the translation and practical application of flexible electronics technologies.
 
-So far, I have published 19 papers, of which 9 are first/co-first-author publications in top-tier journals such as Adv. Mater., Nano lett., Nano Energy etc., with total <a href='https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>700+</span></strong></a>. 
+So far, I have published 21 papers, of which 10 are first/co-first-author publications in top-tier journals such as Adv. Mater., Nano lett., Nano Energy etc., with total <a href='https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>800+</span></strong></a>. 
 
 My work combined both experimental manufacturing and theoretical computation, I have gained extensive experience in fabrication of hydrogel-based devices and developed a solid foundation in polymer science and computational chemistry. In particular, I am proficient in conducting molecular dynamics (MD) simulations (LAMMPS, Python) and density functional theory (DFT) calculations (VASP, Gaussian) for polymer solution systems.
 
 # News
 - 🔥*Now*: &nbsp; Incoming Postdoctoral Researcher in Prof. Metin Sitti’s group at Koç University.
+- *2026.05*: &nbsp; Awarded the Koç University Postdoctoral Fellowship.
 - *2025.06*: &nbsp; PhD Graduate in Mechanical Engineering, Wuhan University. 
 
 # Publications 
@@ -174,8 +175,9 @@ Jingfeng Wang<sup>†</sup>, Xiaoming Zhang<sup>†</sup>, **Zehua Yu<sup>†</s
 
 
 # Honors and Awards
+- *2026.05* Awarded the Koç University Postdoctoral Fellowship.
 - *2024.11* China National Scholarship (Top 0.2%), "Outstanding Student" title.
-- *2019.10* Visiting Research Fellowship, Funded by China Scholarship Council (CSC). 
+- *2019.10* Visiting Research Fellowship, Funded by China Scholarship Council (CSC).
 
 # Educations
 - *2020.08 - 2025.06*, Ph.D.  Mechanical Engineering & Materials Science, Wuhan University, China. 
