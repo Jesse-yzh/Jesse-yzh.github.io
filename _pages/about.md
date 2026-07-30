@@ -25,7 +25,7 @@ So far, I have published 21 papers, of which 10 are first/co-first-author public
 My work combined both experimental manufacturing and theoretical computation, I have gained extensive experience in fabrication of hydrogel-based devices and developed a solid foundation in polymer science and computational chemistry. In particular, I am proficient in conducting molecular dynamics (MD) simulations (LAMMPS, Python) and density functional theory (DFT) calculations (VASP, Gaussian) for polymer solution systems.
 
 # News
-- 🔥*Now*: &nbsp; Incoming Postdoctoral Researcher in Prof. Metin Sitti’s group at Koç University.
+- 🔥*Now*: &nbsp; Postdoctoral Researcher in Prof. Metin Sitti’s group at Koç University.
 - *2026.05*: &nbsp; Awarded the Koç University Postdoctoral Fellowship.
 - *2025.06*: &nbsp; PhD Graduate in Mechanical Engineering, Wuhan University. 
 
