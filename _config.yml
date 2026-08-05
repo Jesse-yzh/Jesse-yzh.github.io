@@ -24,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zehua (Jesse) Yu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : #"WHU"
-  location         : "China"
+  bio              : #"Koc University"
+  location         : "Istanbul"
   employer         :
   pubmed           : 
-  email            : "jesseyzh@whu.edu.com"
-  linkedin         : "/zehua-yu-471852377/"
+  email            : "jesse.zehuayu@outlook.com"
+  linkedin         : "https://www.linkedin.com/in/zehua-yu-471852377/"
   googlescholar    : "https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao"
   researchgate     : #"https://www.researchgate.net/profile/Zehua-Yu-6/research"
   orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-6450-5927"
