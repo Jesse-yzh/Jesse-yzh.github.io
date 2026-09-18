@@ -20,7 +20,7 @@ redirect_from:
 
 I am a postdoctoral researcher in Prof. Metin Sitti’s group at Koç University. My research focuses on: 1) the advanced design and fabrication of flexible electronics; 2) AI-enhanced sensing and actuation; and 3) the translation and practical application of flexible electronics technologies.
 
-So far, I have published 21 papers, of which 10 are first/co-first-author publications in top-tier journals such as Adv. Mater., Nano lett., Nano Energy etc., with total <a href='https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>800+</span></strong></a>. 
+So far, I have published 21 papers, of which 10 are first/co-first-author publications in top-tier journals such as Adv. Mater., Nano lett., Nano Energy etc., with total <a href='https://scholar.google.com/citations?user=S8aNlhEAAAAJ&hl=en&oi=ao'>google scholar citations <strong><span id='total_cit'>900+</span></strong></a>. 
 
 My work combined both experimental manufacturing and theoretical computation, I have gained extensive experience in fabrication of hydrogel-based devices and developed a solid foundation in polymer science and computational chemistry. In particular, I am proficient in conducting molecular dynamics (MD) simulations (LAMMPS, Python) and density functional theory (DFT) calculations (VASP, Gaussian) for polymer solution systems.
 
